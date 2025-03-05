@@ -30,5 +30,6 @@ General usage
 * aliases - List of each boss and their usable alternative names
 * down - Set a boss to be down at current time OR past time
 * update - Set a boss's respawn and window period
+* log - Retrieve a log of recently modified bosses
 
 
